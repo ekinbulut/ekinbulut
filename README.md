@@ -9,14 +9,3 @@ I am Ekin, Senior Engineer at [Yemeksepeti](https:/yemeksepeti.com) and I am a b
 10+ years of experience in software development and systems engineering.
 
 Graduated from [University of Bahcesehir](https://http://www.bahcesehir.edu.tr), with a BSc degree in Computer Engineering.
-
-
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-* [Refactoring Right?](https://ekinbulut.com/refacoring-right-25b837985d4)
-* [Go-Lang Diaries](https://ekinbulut.com/golang-diaries-intro-202b30bb9cdb)
-
-<!-- BLOG-POST-LIST:END --> 
-
