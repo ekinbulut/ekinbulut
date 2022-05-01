@@ -6,12 +6,12 @@ Hi there 👋
 
 I am Ekin, Senior Engineer at [Yemeksepeti](https:/yemeksepeti.com) and I am a back-end developer.
 
-10+ years of experience in software development, with a focus on distrubuted systems.
+10+ years of experience in software development and systems engineering.
 
 Graduated from [University of Bahcesehir](https://http://www.bahcesehir.edu.tr), with a BSc degree in Computer Engineering.
 
 
-## 📩 Lates Blog Posts
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
