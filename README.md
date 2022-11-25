@@ -9,4 +9,4 @@ Senior Engineer @ [Deliveryhero](https:/deliveryhero.com)
 Basically loves develop apps with .net core, go and swift.
 
 
-![Alt text](https://res.cloudinary.com/dkgzvwnhz/image/upload/v1669399669/github/frame.png "Scan Me")
+![Alt text](https://res.cloudinary.com/dkgzvwnhz/image/upload/c_scale,w_150/v1669399669/github/frame.png "Scan Me")
