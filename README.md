@@ -3,7 +3,7 @@
 BSc degree in Computer Engineering.
 
 
-10+ years of experience. Worked in distributed systems, search and notifications systems.
+Decade of experience. Worked in distributed systems, search and notifications systems.
 
 Basically loves develop apps with .net core, go and swift.
 
