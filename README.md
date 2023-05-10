@@ -3,7 +3,7 @@
 BSc degree in Computer Engineering.
 
 
-Decade of experience. Worked in distributed systems, search and notifications systems.
+Hi there! I'm an 18-year experienced .NET back-end developer with a passion for building scalable and robust web applications. My expertise lies in developing RESTful APIs, designing efficient database structures, and optimizing application performance. Over the years, I have worked on various projects ranging from enterprise-level applications to small business solutions, honing my skills in C#, ASP.NET, SQL Server, and other related technologies. In my free time, I enjoy contributing to open-source projects and experimenting with new tools and frameworks. Feel free to explore my repository to see some of my past projects and don't hesitate to reach out if you're interested in collaborating!
 
 Basically loves develop apps with .net core, go and swift.
 
