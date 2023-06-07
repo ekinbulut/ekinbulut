@@ -3,9 +3,23 @@
 BSc degree in Computer Engineering.
 
 
-Hi there! I'm an 18-year experienced .NET back-end developer with a passion for building scalable and robust web applications. My expertise lies in developing RESTful APIs, designing efficient database structures, and optimizing application performance. Over the years, I have worked on various projects ranging from enterprise-level applications to small business solutions, honing my skills in C#, ASP.NET, SQL Server, and other related technologies. In my free time, I enjoy contributing to open-source projects and experimenting with new tools and frameworks. Feel free to explore my repository to see some of my past projects and don't hesitate to reach out if you're interested in collaborating!
+Hi there! 10+ years of experience as backend Developer with a passion for building scalable and robust web applications. My expertise lies in developing RESTful APIs, designing efficient database structures, and optimizing application performance. 
+I enjoy contributing to open-source projects and experimenting with new tools and frameworks. 
 
-Basically loves develop apps with .net core, go and swift.
+Feel free to explore my repository to see some of my past projects and don't hesitate to reach out if you're interested in collaborating!
+
+Love to develop with .net core, go and swift.
+
+## Recent Blog posts
+
+* [A brief summary of object life cycles in containers.](https://ekinbulut.com/a-brief-summary-of-object-life-cycles-in-containers-2df6564ac05e)
+* [Test-driven development (TDD); Notes](https://ekinbulut.com/test-driven-development-tdd-notes-a28ce88cb732)
+* [Comparing Software Architectures: Pros and Cons of Monolithic, SOA, Microservices, EDA, and DDD](https://ekinbulut.com/comparing-software-architectures-pros-and-cons-of-monolithic-soa-microservices-eda-and-ddd-eea61abffb75)
+* [Secure Code Warrior Experience](https://ekinbulut.com/secure-code-warrior-experience-23e3eb3c9cb2)
+* [AWS, Developer Journey](https://ekinbulut.com/aws-developer-journey-a4e997db0ca1)
+* [Refactoring, right?](https://ekinbulut.com/refacoring-right-25b837985d4)
+
+
 
 
 ![Alt text](https://res.cloudinary.com/dkgzvwnhz/image/upload/c_scale,w_150/v1669399669/github/frame.png "Scan Me")
