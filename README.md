@@ -6,9 +6,9 @@ BSc degree in Computer Engineering.
 Hi there! 10+ years of experience as backend Developer with a passion for building scalable and robust web applications. My expertise lies in developing RESTful APIs, designing efficient database structures, and optimizing application performance. 
 I enjoy contributing to open-source projects and experimenting with new tools and frameworks. 
 
-Feel free to explore my repository to see some of my past projects and don't hesitate to reach out if you're interested in collaborating!
+Feel free to explore my repositories to see some of my past projects and don't hesitate to reach out if you're interested in collaborating!
 
-Love to develop with .net core, go and swift.
+Love to develop with .net core, go(newbee) and swift.
 
 ## Recent Blog posts
 
