@@ -3,7 +3,7 @@
 BSc degree in Computer Engineering.
 
 
-Hi there! 10+ years of experience as backend developer with a passion for building scalable and robust web applications. My expertise lies in developing RESTful APIs, designing efficient database structures, and optimizing application performance. 
+Hi there! A backend developer with decade of experience and a passion for building scalable and robust web applications. My expertise lies in developing RESTful APIs, designing efficient database structures, and optimizing application performance. 
 I enjoy contributing to open-source projects and experimenting with new tools and frameworks. 
 
 Feel free to explore my repositories to see some of my past projects and don't hesitate to reach out if you're interested in collaborating!
