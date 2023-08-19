@@ -19,6 +19,9 @@ Love to develop with .net core, go(newbee) and swift.
 * [AWS, Developer Journey](https://ekinbulut.com/aws-developer-journey-a4e997db0ca1)
 * [Refactoring, right?](https://ekinbulut.com/refacoring-right-25b837985d4)
 
+## Mobile Apps
+
+* [Quotely - Where Words Inspire](https://apps.apple.com/app/quotely-where-words-inspire/id6462674171)
 
 
 
