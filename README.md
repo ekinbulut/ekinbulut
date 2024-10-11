@@ -12,12 +12,13 @@ Love to develop with .net core, go(newbee) and swift.
 
 ## Recent Blog posts
 
-* [A brief summary of object life cycles in containers.](https://ekinbulut.com/a-brief-summary-of-object-life-cycles-in-containers-2df6564ac05e)
-* [Test-driven development (TDD); Notes](https://ekinbulut.com/test-driven-development-tdd-notes-a28ce88cb732)
-* [Comparing Software Architectures: Pros and Cons of Monolithic, SOA, Microservices, EDA, and DDD](https://ekinbulut.com/comparing-software-architectures-pros-and-cons-of-monolithic-soa-microservices-eda-and-ddd-eea61abffb75)
-* [Secure Code Warrior Experience](https://ekinbulut.com/secure-code-warrior-experience-23e3eb3c9cb2)
-* [AWS, Developer Journey](https://ekinbulut.com/aws-developer-journey-a4e997db0ca1)
-* [Refactoring, right?](https://ekinbulut.com/refacoring-right-25b837985d4)
+* [A brief summary of object life cycles in containers.](https://ekinbulut.com/a-brief-summary-of-object-life-cycles-in-containers/)
+* [Test-driven development (TDD); Notes](https://ekinbulut.com/test-driven-development-tdd-notes/)
+* [Comparing Software Architectures: Pros and Cons of Monolithic, SOA, Microservices, EDA, and DDD](https://ekinbulut.com/ncomparing-software-architectures-pros-and-cons-of-monolithic-soa-microservices-eda-and-dddn/)
+* [Refactoring, right?](https://ekinbulut.com/refactoring-right/)
+* [Links That I find useful](https://ekinbulut.com/links-sources-which-i-find-useful/)
+* [Go Lang Diaries](https://ekinbulut.com/golang-diaries-intro/)
+  
 
 ## Mobile Apps
 
